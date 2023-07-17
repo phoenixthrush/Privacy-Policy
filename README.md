@@ -1,69 +1,47 @@
-# TOS for Phoenixthrush's projects and sites!
+# Terms of Service for PhoenixMC
 
-## Definitions
+We have done our best to make the Terms of Use as short and understandable as possible.
 
-For the purposes of this Disclaimer:
+The following terms and conditions apply to all registered users of our website www.phoenixthrush.com and any related services such as game servers (hereinafter referred to as "Server").
 
-- Service refers to Phoenixthrush's projects and sites.
-- You means the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
-- Projects refer to my repositories on GitHub, accessible from https://github.com/phoenixthrush.
-- Sites refer to Phoenixthrush's Website ❤️, accessible from https://www.phoenixthrush.com and all it's subdirectories.
+By registering on the Website or using any of our services, you agree to be bound by these Terms and Conditions.
 
-## 1 - Disclaimers for Phoenixthrush's Website ❤️
+If you have any questions regarding these Terms and Conditions, please contact us by email at contact@phoenixthrush.com.
 
-If you require any more information or have any questions about my site's disclaimer, please feel free to contact me by email at contact@phoenixthrush.com.
+## §1 - Age Requirements
 
-All the information on this website - https://www.phoenixthrush.com - and all it's subdirectories's are published in good faith and for general information purpose only.
-I don't make any warranties about the completeness, reliability and accuracy of this information.
-Any action you take upon the information you find on my services, are strictly at your own risk.
-I won't be liable for any losses and/or damages in connection with the use of my website.
+By registering on our website, you agree that you are at least 13 years old and meet the minimum age of digital consent in your country of residence. If you are old enough to use our services but do not meet the minimum age of digital consent, a parent or legal guardian must read and agree to the Terms of Use on your behalf. Please ask your parent or guardian to do so. If you are a parent or legal guardian and you allow your child to use the Services, then these Terms apply to you, and you are responsible for your child's activities while using our Services.
 
-The Website Hosting Provider is "GitHub Pages" and provides their own [Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages). <br/>
-I can't and won't collect any user data at all.
+## §2 - Service Availability
 
-## 2 - External Links Disclaimer
+Although we cannot guarantee full uptime of your servers, the Site and any services it hosts are generally available 24 hours a day and may go offline for many reasons, including but not limited to planned and emergency maintenance, unexpected interruptions, hardware failures, data center downtime, and other unlisted reasons. It is impossible to guarantee that a service will be completely error-free, and we therefore accept no responsibility for any loss of revenue, data or other damage caused by downtime.
 
-The services may contain links to external websites that are not provided or maintained by or in any way affiliated with me.
+## §3 - Policy & Agreement Changes
 
-Please note that I can not guarantee the accuracy, relevance, timeliness, or completeness of any information on these external websites.
+We reserve the right to make changes to our Terms and Conditions at any time. Only existing users will receive an email notifying them of the impending changes 7 days before the changes take effect, after which we will assume they have accepted our changes. Existing users will continue to follow the old policy until the 7-day period expires or they agree to the new policy. Any new users who register, even before the 7-day period has expired, will be deemed to have agreed to the new policies.
 
-## 3 - No Responsibility Disclaimer
+## §4 - Your Servers and Services
+We allow our users to run any software they wish as long as it does not negatively impact the business or any services running on it. By creating a server on our hosting service, you agree to this:
 
-The information on the services are provided with the understanding that I'm not herein engaged in rendering legal, accounting, tax, or other professional advice and services.
-As such, they should not be used as a substitute for consultation with professional accounting, tax, legal or other competent advisers.
+    You take full responsibility for what subusers do on your server.
+    You may not use software that circumvents our software-based restrictions.
+    Any type of cryptocurrency mining, bruteforcing, hacking, denial of service attacks are not allowed.
+    You may not host anything that could be considered illegal or copyright infringing.
+    You may not sell/resell your services or servers to other people.
+    You may not violate the end user license agreements of any software you use.
+    By "unmetered" we mean that there are no software limitations, although we are still limited by hardware.
+    If your server is on the trial plan, you may not create multiple accounts to create more than one trial server.
+    You are not allowed to use anything that compresses or duplicates all of your existing server files into one or more files, please use the included backup feature in the Game Panel instead.
 
-In no event shall I be liable for any special, incidental, indirect, or consequential damages whatsoever arising out of or in connection with your access or use or inability to access or use the services.
+## §5 - User Account
+By creating an account with us, you agree to the following terms and conditions:
 
-## 4 - "Use at Your Own Risk" Disclaimer
+    You are fully responsible for maintaining the confidentiality of your account information. To the extent permitted by applicable law, you agree to be responsible for all activities that occur under your account.
+    You are responsible for losing access to your account if you lose your password, two-factor authentication provider, or third-party authentication method. A user will usually be able to regain access by using the "Forgot Password" feature provided, but account recovery is never guaranteed.
+    We reserve the right to close your account and delete all services associated with it without giving any reason, especially if you violate our Terms and Conditions, in these cases no data will be given.
+    You are not allowed to give anyone else access to your account, you can use the sub-user functionality on your server to give other accounts access to your server.
 
-All information in the services are provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability and fitness for a particular purpose.
+## §6 - Final Clauses
 
-I won't be liable to You or anyone else for any decision made or action taken in reliance on the information given by the services or for any consequential, special or similar damages, even if advised of the possibility of such damages.
-
-## 5A - Softwares/ Scripts/ Applications
-
-All the Softwares/ Scripts/ Applications are provided as is, without warranty of any kind. <br/>
-Use of these Softwares/ Scripts/ Applications are entirely at your own risk. <br/>
-I won't be responsible for any direct or indirect damage to your own or defiantly someone else's property resulting from the use of these Softwares/ Scripts/ Applications.
-
-## 5B - Malicious Softwares/ Scripts/ Applications
-
-If the Softwares/ Scripts/ Applications are malicious, I'll mark the repository description with a warning and/ or mention it inside the "README.md" file! <br/>
-However, the statements of [Section 5A](https://github.com/phoenixthrush/Disclaimer#softwaresscriptsapplications) still apply.<br/>
-
-Do NOT run any Softwares/ Scripts/ Applications, unless you are absolutely sure of what you are doing! <br/>
-I only provide them for educational purposes and nothing else!
-
-If you still want to run any Softwares/ Scripts/ Applications, I recommend running them inside a virtual machine, container or the like and without guest additions or any equivalents. <br/>
-If you really don't know of what you are doing, please don't try to run them unless you are absolutly sure of what they are doing! <br/>
-I am not responsible for any damage or anything else that may happen as mentioned of [Section 5A](https://github.com/phoenixthrush/Disclaimer#softwaresscriptsapplicationsthings) above!
-
-Keep in mind to reset and/or delete your virtual machine, container or the like after the use of such Softwares/ Scripts/ Applications/ Things.
-
-## 6 - Consent
-
-By using my services, you hereby consent to my disclaimer and agree to its terms.
-
-## 7 - Update
-
-Should I update, amend or make any changes to this document, those changes will be prominently posted here.
+    If you notice that someone is violating our Terms and Conditions, please report it here.
+    If any part of these terms and conditions is found to be invalid or unenforceable, this shall not affect the validity of the remaining terms and conditions. Invalid provisions shall be replaced by mutual consent with provisions that come as close as possible to the intended result of the invalid provision.
