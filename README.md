@@ -1,4 +1,3 @@
-# Privacy Policy
 Last updated: 05/10/2024
 
 ### Server Location
