@@ -1,69 +1,47 @@
-# TOS for Phoenixthrush's projects and sites!
+# Privacy Policy
+Last updated: 05/10/2024
 
-## Definitions
+### Server Location
+The server hosting www.phoenixthrush.com is situated in Frankfurt am Main, Germany, specifically at Unesty within the iNTERWERK Rechenzentrum. This location ensures compliance with German data protection regulations and guidelines.
 
-For the purposes of this Disclaimer:
+### Registration and Data Collection
+When you register on my platform, I collect specific personal data necessary for registration and the utilization of my services. Typically, this includes:
+- Username
+- Password
 
-- Service refers to Phoenixthrush's projects and sites.
-- You means the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
-- Projects refer to my repositories on GitHub, accessible from https://github.com/phoenixthrush.
-- Sites refer to Phoenixthrush's Website ❤️, accessible from https://www.phoenixthrush.com and all it's subdirectories.
+I utilize this data solely for managing your account, delivering my services, and communicating with you.
 
-## 1 - Disclaimers for Phoenixthrush's Website ❤️
+### Data Processing
+The homepage of my website (www.phoenixthrush.com) and its subdomains utilize the Cloudflare proxy service. It's important to note that when utilizing the Cloudflare proxy service, certain data such as IP addresses, timestamps, and browser agents may be processed in the USA. I do not retain any data processed via Cloudflare.
 
-If you require any more information or have any questions about my site's disclaimer, please feel free to contact me by email at contact@phoenixthrush.com.
+### Data Sharing
+I do not disclose any personal data to third parties. I uphold your right to privacy and confidentiality and strictly adhere to this policy.
 
-All the information on this website - https://www.phoenixthrush.com - and all it's subdirectories's are published in good faith and for general information purpose only.
-I don't make any warranties about the completeness, reliability and accuracy of this information.
-Any action you take upon the information you find on my services, are strictly at your own risk.
-I won't be liable for any losses and/or damages in connection with the use of my website.
+### Cookies
+I do not employ cookies for gathering information about your online activities. They are solely used to maintain your logged-in status.
 
-The Website Hosting Provider is "GitHub Pages" and provides their own [Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages). <br/>
-I can't and won't collect any user data at all.
+### Security Measures
+I implement appropriate technical and organizational measures to safeguard your data and prevent unauthorized access, loss, misuse, or alteration. However, no method of data transmission over the Internet or electronic data storage is entirely secure. Therefore, I cannot guarantee absolute security.
 
-## 2 - External Links Disclaimer
+### External Links Disclaimer
+The services may contain links to external websites that are not provided or maintained by or in any way affiliated with me. Please note that I cannot guarantee the accuracy, relevance, timeliness, or completeness of any information on these external websites.
 
-The services may contain links to external websites that are not provided or maintained by or in any way affiliated with me.
+### No Responsibility Disclaimer
+The information on the services is provided with the understanding that I'm not herein engaged in rendering legal, accounting, tax, or other professional advice and services. In no event shall I be liable for any special, incidental, indirect, or consequential damages whatsoever arising out of or in connection with your access or use of the services.
 
-Please note that I can not guarantee the accuracy, relevance, timeliness, or completeness of any information on these external websites.
+### "Use at Your Own Risk" Disclaimer
 
-## 3 - No Responsibility Disclaimer
+All information in the services and the Softwares/Scripts/Applications provided are offered without any warranty of any kind. Their usage is entirely at your own risk. I cannot be held responsible for any direct or indirect damage to your property or that of others resulting from the use of these Softwares/Scripts/Applications. In case any of the Softwares/Scripts/Applications are found to be malicious, appropriate warnings will be issued in the repository description and/or the "README.md" file. Please refrain from running any Softwares/Scripts/Applications unless you are absolutely confident in your understanding of their functions. These materials are provided solely for educational purposes.
 
-The information on the services are provided with the understanding that I'm not herein engaged in rendering legal, accounting, tax, or other professional advice and services.
-As such, they should not be used as a substitute for consultation with professional accounting, tax, legal or other competent advisers.
+### Liability Disclaimer
 
-In no event shall I be liable for any special, incidental, indirect, or consequential damages whatsoever arising out of or in connection with your access or use or inability to access or use the services.
+Should you choose to proceed with running any Softwares/Scripts/Applications, it is recommended to execute them within a virtual machine, container, or similar environment, without the inclusion of guest additions or similar elements. Additionally, remember to reset or delete the virtual machine, container, or similar environment after use to maintain security and integrity. I won't be liable to you or anyone else for any decision made or action taken in reliance on the information given by the services or for any consequential, special, or similar damages, even if advised of the possibility of such damages.
 
-## 4 - "Use at Your Own Risk" Disclaimer
+### Your Rights
+In accordance with applicable data protection laws, you have the right to access, rectify, erase, or restrict the processing of your personal data. You also have the right to object to the processing of your data. If you have any questions regarding your rights or the use of your data, please contact me at contact@phoenixthrush.com.
 
-All information in the services are provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability and fitness for a particular purpose.
+### Changes to this Privacy Policy
+I reserve the right to update this privacy policy at any time. Changes will be published on my website, with the updated date indicated at the top of this statement. I recommend checking this statement regularly for updates.
 
-I won't be liable to You or anyone else for any decision made or action taken in reliance on the information given by the services or for any consequential, special or similar damages, even if advised of the possibility of such damages.
-
-## 5A - Softwares/ Scripts/ Applications
-
-All the Softwares/ Scripts/ Applications are provided as is, without warranty of any kind. <br/>
-Use of these Softwares/ Scripts/ Applications are entirely at your own risk. <br/>
-I won't be responsible for any direct or indirect damage to your own or defiantly someone else's property resulting from the use of these Softwares/ Scripts/ Applications.
-
-## 5B - Malicious Softwares/ Scripts/ Applications
-
-If the Softwares/ Scripts/ Applications are malicious, I'll mark the repository description with a warning and/ or mention it inside the "README.md" file! <br/>
-However, the statements of [Section 5A](https://github.com/phoenixthrush/Disclaimer#softwaresscriptsapplications) still apply.<br/>
-
-Do NOT run any Softwares/ Scripts/ Applications, unless you are absolutely sure of what you are doing! <br/>
-I only provide them for educational purposes and nothing else!
-
-If you still want to run any Softwares/ Scripts/ Applications, I recommend running them inside a virtual machine, container or the like and without guest additions or any equivalents. <br/>
-If you really don't know of what you are doing, please don't try to run them unless you are absolutly sure of what they are doing! <br/>
-I am not responsible for any damage or anything else that may happen as mentioned of [Section 5A](https://github.com/phoenixthrush/Disclaimer#softwaresscriptsapplicationsthings) above!
-
-Keep in mind to reset and/or delete your virtual machine, container or the like after the use of such Softwares/ Scripts/ Applications/ Things.
-
-## 6 - Consent
-
-By using my services, you hereby consent to my disclaimer and agree to its terms.
-
-## 7 - Update
-
-Should I update, amend or make any changes to this document, those changes will be prominently posted here.
+### Contact Me
+For any questions or concerns regarding this Privacy Policy, please reach out to me at contact@phoenixthrush.com.
